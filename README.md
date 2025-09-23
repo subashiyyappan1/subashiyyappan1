@@ -56,6 +56,8 @@
 #### 📊 Data Analytics & Big data
 <p align="left">
   <img width="50" height="50" src="https://img.icons8.com/color/50/pandas.png" alt="pandas"/>  
+  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000" alt="spark"/>
+  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=69132&format=png&color=000000" alt="hadoop"/>
 </p>
 
 ---
