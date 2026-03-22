@@ -1,7 +1,7 @@
 ## Hi there 👋 I’m **Subash Iyyappan** — You can call me **Subash**
 
 💻 **Full-Stack Developer** passionate about building scalable web applications with modern technologies.  
-<img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/22b22287602523.5dbd29081561d.gif" width="280" height="280" style="max-width: 100%; border-radius: 8px;"/>
+<img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/22b22287602523.5dbd29081561d.gif" width="200" height="200"/>
 
 * 🔭 Here’s my [**Portfolio**](https://blog.ithubtamil.in/)
 * 🌱 Currently I'm working **Node.js & Express** along with **React js,Typescript,Tailwind** and experimenting with **AI integration**
